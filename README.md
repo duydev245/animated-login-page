@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/20798f3b-a831-4941-b41d-105cdc7b199a
 - This is an animated login page I study in Youtube using HTML, CSS and Javascript
 
 ***Sign In Page***
@@ -7,4 +9,5 @@
 ![sign-up-page](img/image-sign-up.png)
 
 ***Video***
-<video controls src="video/animated-login-page.mp4" title="Animated-login-page"></video>
+https://github.com/user-attachments/assets/c93329dc-d3ea-4cf0-9c4a-57a7da4a8c78
+
